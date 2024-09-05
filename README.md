@@ -46,5 +46,5 @@ Each input file should contain:
 3. **Random Numbers:** A list of random numbers to be used for the Lottery scheduling algorithm.
    
 ## Running Program
-1. Compile files with 'javac *.java'
-2. Run with : 'java A1' followed by the input file
+1. Compile files with `javac *.java`
+2. Run with : `java A1` followed by the input file
