@@ -1,0 +1,59 @@
+BEGIN
+
+DISP: 1
+END
+
+PID: p1
+ArrTime: 0
+SrvTime: 10
+Tickets: 16
+END
+
+PID: p2
+ArrTime: 2
+SrvTime: 1
+Tickets: 1
+END
+
+PID: p3
+ArrTime: 6
+SrvTime: 2
+Tickets: 7
+END
+
+PID: p4
+ArrTime: 10
+SrvTime: 1
+Tickets: 19
+END
+
+PID: p5
+ArrTime: 14
+SrvTime: 5
+Tickets: 10
+END
+
+
+BEGINRANDOM
+134364
+847434
+763775
+255069
+495435
+449491
+651593
+788724
+93859
+28347
+835765
+432767
+762280
+2106
+445387
+721540
+228762
+945271
+901428
+ENDRANDOM
+
+EOF

@@ -1,0 +1,62 @@
+BEGIN
+
+DISP: 1
+END
+
+PID: p1
+ArrTime: 0
+SrvTime: 10
+Tickets: 400
+END
+
+PID: p2
+ArrTime: 0
+SrvTime: 1
+Tickets: 100
+END
+
+PID: p3
+ArrTime: 0
+SrvTime: 2
+Tickets: 150
+END
+
+PID: p4
+ArrTime: 0
+SrvTime: 1
+Tickets: 200
+END
+
+PID: p5
+ArrTime: 0
+SrvTime: 5
+Tickets: 250
+END
+
+
+BEGINRANDOM
+844422
+757955
+420572
+258917
+511275
+404934
+783799
+303313
+476597
+583382
+908113
+504687
+281838
+755804
+618369
+250506
+909747
+982786
+810218
+902166
+310147
+729832
+ENDRANDOM
+
+EOF
